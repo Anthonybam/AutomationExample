@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="AllTests" duration-ms="146728" started-at="2015-06-11T18:24:20Z" finished-at="2015-06-11T18:26:46Z">
+    <groups>
+    </groups>
+    <test name="MyTests" duration-ms="146728" started-at="2015-06-11T18:24:20Z" finished-at="2015-06-11T18:26:46Z">
+      <class name="com.qa.LoginTests">
+        <test-method status="PASS" signature="testLogin1()[pri:0, instance:com.qa.LoginTests@7ac7a4e4]" name="testLogin1" duration-ms="115792" started-at="2015-06-11T11:24:20Z" finished-at="2015-06-11T11:26:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin1 -->
+        <test-method status="PASS" signature="testLoginGetVersion()[pri:0, instance:com.qa.LoginTests@7ac7a4e4]" name="testLoginGetVersion" duration-ms="14718" started-at="2015-06-11T11:26:15Z" finished-at="2015-06-11T11:26:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginGetVersion -->
+        <test-method status="PASS" signature="testLoginNoIDPassword()[pri:0, instance:com.qa.LoginTests@7ac7a4e4]" name="testLoginNoIDPassword" duration-ms="16207" started-at="2015-06-11T11:26:30Z" finished-at="2015-06-11T11:26:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginNoIDPassword -->
+      </class> <!-- com.qa.LoginTests -->
+    </test> <!-- MyTests -->
+  </suite> <!-- AllTests -->
+</testng-results>
